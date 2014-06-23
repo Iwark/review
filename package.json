@@ -7,9 +7,7 @@
   },
   "dependencies": {
     "mongoose": "*",
-    "twit": "*",
     "async": "*",
-    "js-yaml": "*",
     "nodemailer": "*",
     "date-utils": "*"
   },
